@@ -4,6 +4,6 @@ export default function Institutions() {
   return (
     <div>
       
-    </div>
+    </div>   
   )
 }
